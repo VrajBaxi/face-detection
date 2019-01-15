@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "227772327816",
+    "firebase_url": "https://imagedetection-bf4da.firebaseio.com",
+    "project_id": "imagedetection-bf4da",
+    "storage_bucket": "imagedetection-bf4da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227772327816:android:b3e1b6332634ab12",
+        "android_client_info": {
+          "package_name": "com.machinelearning.perfect.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227772327816-qvp578bfeoc31151p26o2q1iip8pktpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYvhiQWsJAH-bAtt3mv1zeajauoWeYPOw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227772327816:android:356155d2bb9d8ad2",
+        "android_client_info": {
+          "package_name": "com.machinelearning.perfect.imagedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227772327816-2k42i0s1afeplm11ocq71hkb5kidj0j2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.machinelearning.perfect.imagedetection",
+            "certificate_hash": "df1591631d8541c0f7da827aacb1f2a090e5d13f"
+          }
+        },
+        {
+          "client_id": "227772327816-qvp578bfeoc31151p26o2q1iip8pktpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYvhiQWsJAH-bAtt3mv1zeajauoWeYPOw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227772327816-qvp578bfeoc31151p26o2q1iip8pktpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
